@@ -1,6 +1,7 @@
 alpaca_trade_api>=2.1.0
 ccxt==1.66.32  # make sure that >=1.66.32
-git+https://github.com/emil-ap/ElegantRL@2613e7c#egg=ElegantRL
+
+
 
 # market data & paper trading API
 exchange_calendars
